@@ -1,0 +1,10 @@
+#Sun Apr 09 22:06:01 IST 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_78f9f518ea2c660f5390d893119e3b73a4c845d6
+base.1=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_177939d6dedbf37c8426b9fcf710a57f41feb7c1
+base.0=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_ac40324d80035e660409e9fbee9f66596b2a8b82
+file.2=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_78f9f518ea2c660f5390d893119e3b73a4c845d6/classes.dex
+file.1=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_177939d6dedbf37c8426b9fcf710a57f41feb7c1/classes.dex
+file.0=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_ac40324d80035e660409e9fbee9f66596b2a8b82/classes.dex

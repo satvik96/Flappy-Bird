@@ -1,0 +1,7 @@
+#Tue Apr 11 10:27:57 IST 2017
+base.0=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95d6520597339f0686daed55de6d56cf98d51518
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd2c519082b2be5cb2acc45429e8a23b373caa40/classes.dex
+base.1=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd2c519082b2be5cb2acc45429e8a23b373caa40
+file.0=/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95d6520597339f0686daed55de6d56cf98d51518/classes.dex

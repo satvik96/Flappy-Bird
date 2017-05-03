@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Apr 11 10:27:57 IST 2017
+2.base=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug
+5.file=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug/bird2.png
+5.set=ASSET
+3.base=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug
+6.file=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug/gameover.png
+2.set=ASSET
+4.base=/Users/satvik/Desktop/test/android/build/intermediates/res/resources-debug.ap_
+7.file=/Users/satvik/Desktop/test/android/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug/toptube.png
+5.base=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug
+8.file=/Users/satvik/Desktop/test/android/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug
+1.file=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug/bg.png
+1.set=ASSET
+7.base=/Users/satvik/Desktop/test/android/build/intermediates/res/resources-debug.ap_
+2.file=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug/bird.png
+6.set=ASSET
+0.base=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug
+8.base=/Users/satvik/Desktop/test/android/build/intermediates/res/resources-debug.ap_
+3.file=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug/bottomtube.png
+3.set=ASSET
+1.base=/Users/satvik/Desktop/test/android/build/intermediates/assets/debug
+4.file=/Users/satvik/Desktop/test/android/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ASSET

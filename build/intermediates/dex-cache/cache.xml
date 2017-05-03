@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/satvik/Desktop/test/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b66a2e07dd9e99ad63a1fe7559367a5a1ebba8ca">
+        <dex dex="/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd2c519082b2be5cb2acc45429e8a23b373caa40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satvik/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_177939d6dedbf37c8426b9fcf710a57f41feb7c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satvik/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_78f9f518ea2c660f5390d893119e3b73a4c845d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satvik/Desktop/test/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95d6520597339f0686daed55de6d56cf98d51518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satvik/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/satvik/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_ac40324d80035e660409e9fbee9f66596b2a8b82/classes.dex" />
+    </item>
+
+</items>

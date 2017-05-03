@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/satvik/Desktop/Android/test/android/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/satvik/Desktop/Android/test/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/satvik/Desktop/test/android/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/satvik/Desktop/test/android/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]
